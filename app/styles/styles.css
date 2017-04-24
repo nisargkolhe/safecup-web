@@ -1,0 +1,236 @@
+
+
+html, body {
+	font-family: 'Raleway', 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.6)
+    ),url(../images/michael-discenza-199756.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #f0f0f0;
+}
+
+h1{
+	font-family: 'Arkhip', 'Helvetica', sans-serif;
+	font-size: 2.5em;
+	text-decoration: underline;
+}
+
+section a{
+	color: #000;
+	text-decoration: none;
+	border-bottom: 2px solid #000;
+	-webkit-transition:all .1s ease;
+	-moz-transition:all .1s ease;
+	-ms-transition:all .1s ease;
+	-o-transition:all .1s ease;
+	transition:all .1s ease;
+}
+
+section a:hover{
+	color: #0f0f0f;
+	padding-bottom: 2px;
+}
+
+#header {
+	font-family: 'Arkhip', 'Helvetica', sans-serif;
+	top: 0;
+	margin-top: 2em;
+	width: 100%;
+	list-style-type:none;
+	padding:0;
+	overflow:hidden;
+	position: fixed;
+	z-index: 99;
+	display: -webkit-inline-flex; /* Safari */
+  	display: inline-flex;
+  	-webkit-flex-direction: row; /* Safari */
+  	flex-direction: row;
+  	-webkit-justify-content: center; /* Safari */
+  	justify-content: center;
+  	-webkit-align-items: center; /* Safari */
+  	align-items:         center;
+}
+
+
+#header a{
+	color:#f0f0f0;
+	text-decoration: none;
+	border-bottom: 0px solid #fff;
+	-webkit-transition:all .1s ease;
+	-moz-transition:all .1s ease;
+	-ms-transition:all .1s ease;
+	-o-transition:all .1s ease;
+	transition:all .1s ease;
+
+}
+#header a:hover{
+	color: #fff;
+	border-bottom: 3px solid #fff;
+}
+
+.headitem{
+	margin: 0 2em;
+}
+
+.logo{
+	width: 550px;
+	height: auto;
+	-webkit-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	-ms-transition:all .3s ease;
+	-o-transition:all .3s ease;
+	transition:all .3s ease;
+}
+
+.heroBg{
+	top: 0;
+	height: 100%;
+	z-index: 0;
+	width:100%;
+	background: url(../images/michael-discenza-199756.jpg) no-repeat center center fixed; 
+	position: fixed;
+}
+
+.hero{
+	padding-top: 250px;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: 5em;
+	text-shadow: 0 1px 0 black;
+}
+
+.hero h1{
+	font-family: 'Nexa Bold', Helvetica, Arial, sans-serif !important;
+	font-size: 2.5em !important;
+	text-decoration: none;
+}
+
+.problem{
+	padding: 2em 0;
+	text-align: center;
+	background-color: #fff;
+	color: #0f0f0f;
+}
+
+.solution{
+	display: flex;
+	-webkit-justify-content: center; /* Safari */
+  	justify-content: center;
+  	-webkit-align-items: center; /* Safari */
+  	align-items: center;
+}
+
+.science{
+	width: 100%;
+	margin: -154px 0;
+	min-height: 500px;
+	background: url(../images/science.jpg);
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+.team{
+	display: flex;
+	flex-wrap: wrap;
+	-webkit-justify-content: center; /* Safari */
+  	justify-content: center;
+  	-webkit-align-items: center; /* Safari */
+  	align-items: center;
+  	-webkit-flex-direction: row; /* Safari */
+  	flex-direction: row;
+}
+
+.teamBox{
+	margin: 2em;
+}
+
+.teamBox img{
+	height: 200px;
+	width: 200px !important;
+	border-radius: 50%;
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	-webkit-transition:all 1s ease;
+	-moz-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	transition:all 1s ease;
+}
+
+.teamBox img:hover {
+	filter: grayscale(0%);
+	-webkit-filter: grayscale(0%);
+	-webkit-transition:all 1s ease;
+	-moz-transition:all 1s ease;
+	-ms-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	transition:all 1s ease;
+}
+
+.footer{
+	margin: 2em;
+	text-align: center;
+	color: #f0f0f0;
+	line-height: 2em;
+}
+
+section .in{
+	margin: 0 auto;
+	width: 800px;
+	padding: 1em;
+}
+
+section .in p{
+	line-height: normal;
+	font-size: 1.5em;
+}
+
+.no-pad {
+	padding:0!important;
+}
+
+.seperator {
+	line-height:0;
+}
+
+.seperator img {
+	width:100%;
+}
+
+
+
+.love {
+  display: inline-block;
+  position: relative;
+  top: .2em;
+  font-size: 1.4em;
+  color: #e74c3c;
+  -webkit-transform: scale(.9);
+  -moz-transform: scale(.9);
+  transform: scale(.9);
+  -webkit-animation: love 0.7s infinite linear alternate-reverse;
+  -moz-animation: love 0.7s infinite linear alternate-reverse;
+  animation: love 0.7s infinite linear alternate-reverse;
+}
+@-webkit-keyframes love {
+  to {-webkit-transform: scale(1.0);}
+}
+@-moz-keyframes love {
+  to {-moz-transform: scale(1.0);}
+}
+@keyframes love {
+  to {transform: scale(1.0);}
+}
+
+.clearboth{
+	clear:both;
+}
