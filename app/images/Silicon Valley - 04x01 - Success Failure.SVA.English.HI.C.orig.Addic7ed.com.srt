@@ -1,0 +1,3042 @@
+﻿1
+00:00:10,389 --> 00:00:12,979
+No, I'll get my car tomorrow.
+I had too many.
+
+2
+00:00:13,016 --> 00:00:14,686
+Got an Uber coming. Thank you.
+
+3
+00:00:17,854 --> 00:00:19,014
+That was fast.
+
+4
+00:00:19,064 --> 00:00:21,354
+Hello. For Jim?
+
+5
+00:00:21,400 --> 00:00:22,400
+RICHARD: Yep.
+
+6
+00:00:24,069 --> 00:00:27,279
+Oh, would you... would
+you care for a water?
+
+7
+00:00:28,615 --> 00:00:30,075
+Why are your fingers orange?
+
+8
+00:00:30,117 --> 00:00:31,787
+It's... It's iodine.
+
+9
+00:00:31,827 --> 00:00:33,327
+I've been... biting my nails,
+
+10
+00:00:33,370 --> 00:00:35,040
+so I put this on there to
+stop me from doing it.
+
+11
+00:00:35,080 --> 00:00:37,080
+Looks like Cheetos, tastes like asshole.
+
+12
+00:00:38,750 --> 00:00:40,960
+So, what do you do?
+
+13
+00:00:41,003 --> 00:00:43,713
+Venture capital over at Wood Opal.
+
+14
+00:00:43,755 --> 00:00:45,255
+Wow.
+
+15
+00:00:45,299 --> 00:00:46,889
+Wow. Good.
+
+16
+00:00:46,925 --> 00:00:49,095
+- Mm-hmm.
+- (RINGING)
+
+17
+00:00:49,136 --> 00:00:51,266
+Uh, can I take this?
+
+18
+00:00:51,305 --> 00:00:52,765
+- Sure.
+- All right.
+
+19
+00:00:54,099 --> 00:00:55,389
+<i>Hello, hi!</i>
+
+20
+00:00:55,434 --> 00:00:57,184
+<i>My goodness, this video chat app</i>
+
+21
+00:00:57,227 --> 00:01:00,067
+<i>is light-years ahead of anything
+else out there on the market.</i>
+
+22
+00:01:00,105 --> 00:01:01,475
+I agree.
+
+23
+00:01:01,523 --> 00:01:04,603
+Yes, and you can add
+multiple concurrent users
+
+24
+00:01:04,651 --> 00:01:08,231
+with no loss in picture quality,
+even on conventional 3G.
+
+25
+00:01:08,280 --> 00:01:10,450
+Let's see what happens
+when we add more friends.
+
+26
+00:01:11,533 --> 00:01:13,403
+<i>Hi, friend. What's up?</i>
+
+27
+00:01:13,452 --> 00:01:15,242
+<i>Hello, friend.</i>
+
+28
+00:01:15,287 --> 00:01:17,747
+JARED: <i>Hey, should we
+add another friend?</i>
+
+29
+00:01:17,789 --> 00:01:19,209
+<i>Yeah, we should.</i>
+
+30
+00:01:19,249 --> 00:01:21,999
+<i>How many friends can we
+conference at the same time?</i>
+
+31
+00:01:22,044 --> 00:01:25,124
+Well, thanks to the
+amazing new TURN server,
+
+32
+00:01:25,172 --> 00:01:26,672
+as many as you like.
+
+33
+00:01:26,715 --> 00:01:29,845
+<i>What if someone is in an area
+with poor cellular reception?</i>
+
+34
+00:01:29,885 --> 00:01:31,465
+<i>I doubt it would even work.</i>
+
+35
+00:01:31,511 --> 00:01:33,881
+<i>- And if it did, the lag, the video quality...</i>
+- (SIGHS)
+
+36
+00:01:33,930 --> 00:01:34,980
+<i>that would be horrible.</i>
+
+37
+00:01:35,015 --> 00:01:36,685
+Well, let's find out.
+
+38
+00:01:36,725 --> 00:01:38,185
+Could you keep your eyes
+on the road, please?
+
+39
+00:01:38,226 --> 00:01:39,726
+Yeah, got it. I'm on it.
+
+40
+00:01:39,770 --> 00:01:41,020
+<i>Hey, friends.</i>
+
+41
+00:01:41,063 --> 00:01:43,603
+<i>Wow! Look at that. The
+image is so clear.</i>
+
+42
+00:01:43,649 --> 00:01:45,399
+<i>We all look amazing, don't we?</i>
+
+43
+00:01:45,442 --> 00:01:46,982
+<i>- Yeah, we really do.
+- Yes.</i>
+
+44
+00:01:47,027 --> 00:01:49,067
+Is that really just on a cell signal?
+
+45
+00:01:49,112 --> 00:01:50,232
+Uh, yes.
+
+46
+00:01:50,280 --> 00:01:52,450
+This is the amazing new
+company PiperChat.
+
+47
+00:01:54,159 --> 00:01:55,789
+Wait a minute.
+
+48
+00:01:55,827 --> 00:01:58,917
+I saw you at TechCrunch.
+You're Richard Hendricks.
+
+49
+00:01:58,955 --> 00:02:01,205
+- The very same. Yeah.
+- You're the fucking guy
+
+50
+00:02:01,249 --> 00:02:02,999
+that tried to walk into Coleman Blair
+
+51
+00:02:03,043 --> 00:02:04,043
+with fraudulent numbers.
+
+52
+00:02:04,086 --> 00:02:05,296
+- No!
+- GILFOYLE:<i> Uh-oh.</i>
+
+53
+00:02:05,337 --> 00:02:07,167
+- JARED: <i>That was my fault.</i>
+- Yes, but no.
+
+54
+00:02:07,214 --> 00:02:09,584
+I mean, that... that's the old thing.
+This is the new thing,
+
+55
+00:02:09,633 --> 00:02:11,173
+and I can assure you,
+it's very, very real.
+
+56
+00:02:11,218 --> 00:02:13,928
+You're not even my driver. This
+says Sandeep in an Escalade.
+
+57
+00:02:13,970 --> 00:02:16,270
+- GILFOYLE:<i> Ah, shit.</i>
+- Look, look.
+
+58
+00:02:16,306 --> 00:02:18,476
+No one will even talk
+to us, which is crazy.
+
+59
+00:02:18,517 --> 00:02:21,267
+We just surpassed 120,000
+daily active users
+
+60
+00:02:21,311 --> 00:02:25,061
+and we're growing at a rate of 18
+percent, organically, week over week.
+
+61
+00:02:25,107 --> 00:02:26,937
+<i>Richard, that's Facebook-level growth.</i>
+
+62
+00:02:26,983 --> 00:02:28,313
+- Pull over now.
+- DINESH: <i>That is great!</i>
+
+63
+00:02:28,360 --> 00:02:30,030
+ERLICH: <i>Richard, Richard,
+do not pull over.</i>
+
+64
+00:02:30,070 --> 00:02:31,453
+<i>You will never see him
+again if he gets out.</i>
+
+65
+00:02:31,455 --> 00:02:32,161
+<i>I am not involved!</i>
+
+66
+00:02:32,197 --> 00:02:33,527
+ERLICH: <i>Richard, can you hear me?</i>
+
+67
+00:02:33,573 --> 00:02:35,233
+<i>Okay, for real, Richard.
+You have to pull over.</i>
+
+68
+00:02:35,283 --> 00:02:37,533
+<i>- Richard, do not... do not pull over.
+- You'll never see him again.</i>
+
+69
+00:02:37,577 --> 00:02:39,247
+<i>- Hey, are you on the shitter?</i>
+- Pull the fuck over.
+
+70
+00:02:40,455 --> 00:02:41,995
+- ERLICH: <i>Richard!</i>
+- Okay.
+
+71
+00:02:42,040 --> 00:02:44,380
+What the fuck? Are you seriously
+trying to kidnap me right now?
+
+72
+00:02:44,418 --> 00:02:46,548
+No. It's the locks. I... I don't know.
+It's not my car.
+
+73
+00:02:46,586 --> 00:02:48,166
+<i>Child locks are on.</i>
+
+74
+00:02:48,213 --> 00:02:50,043
+<i>I was babysitting my friend
+Gloria's great-granddaughter.</i>
+
+75
+00:02:50,090 --> 00:02:51,430
+<i>- It's on the left.</i>
+- (BEEPS)
+
+76
+00:02:51,466 --> 00:02:54,046
+- Got it. Look, look, look.
+<i>- God damn it!</i>
+
+77
+00:02:54,094 --> 00:02:55,804
+Come on. Listen to me.
+
+78
+00:02:55,846 --> 00:02:58,016
+We are desperate. We need funding.
+
+79
+00:02:58,056 --> 00:02:59,176
+- You need funding?
+- Yes.
+
+80
+00:03:00,350 --> 00:03:02,150
+Hit a million daily active users
+
+81
+00:03:02,185 --> 00:03:04,225
+while sustaining the
+same kind of growth,
+
+82
+00:03:04,271 --> 00:03:07,351
+then everybody in town will
+be trying to kidnap you.
+
+83
+00:03:07,399 --> 00:03:08,689
+Problem solved.
+
+84
+00:03:08,734 --> 00:03:10,194
+ERLICH:<i> Yeah, easy for you to say.</i>
+
+85
+00:03:10,235 --> 00:03:12,315
+<i>Can you imagine how much
+these servers are costing me</i>
+
+86
+00:03:12,362 --> 00:03:14,062
+<i>just to keep this ship afloat?</i>
+
+87
+00:03:14,114 --> 00:03:16,984
+<i>Right, and every new user
+increases our server cost.</i>
+
+88
+00:03:17,033 --> 00:03:19,323
+Really? I'm sorry.
+
+89
+00:03:19,369 --> 00:03:21,789
+Is it hard to become a billionaire?
+
+90
+00:03:21,830 --> 00:03:24,420
+Welcome to the Valley, assholes.
+
+91
+00:03:25,500 --> 00:03:27,090
+- (SIGHS) Fuck.
+- (DOOR CLOSES)
+
+92
+00:03:27,127 --> 00:03:30,047
+- GILFOYLE:<i> What a dick.</i>
+- Well, assuming we don't get arrested,
+
+93
+00:03:30,088 --> 00:03:31,678
+looks like we have to work our asses off
+
+94
+00:03:31,715 --> 00:03:33,335
+- to reduce our hosting bill.
+- (DOOR OPENS)
+
+95
+00:03:33,383 --> 00:03:35,043
+(STAMMERS)
+
+96
+00:03:35,093 --> 00:03:36,383
+- Hi.
+- Hi.
+
+97
+00:03:36,428 --> 00:03:38,768
+If you actually get
+to a million users...
+
+98
+00:03:39,806 --> 00:03:41,726
+call me. My cell's on the back.
+
+99
+00:03:41,767 --> 00:03:42,807
+Oh, okay.
+
+100
+00:03:42,851 --> 00:03:44,801
+(THEME MUSIC PLAYING)
+
+101
+00:03:48,465 --> 00:03:53,657
+- sync and corrections by Mr. C -
+- www.addic7ed.com -
+
+102
+00:03:54,029 --> 00:03:55,069
+GILFOYLE: Did you finish?
+
+103
+00:03:55,113 --> 00:03:56,773
+DINESH: Yeah, I just pushed my code.
+
+104
+00:03:56,907 --> 00:03:58,447
+Took me two fucking days,
+
+105
+00:03:58,492 --> 00:04:00,742
+but I broke up our entire code
+base into parallel services.
+
+106
+00:04:00,786 --> 00:04:02,496
+You know, this whole job
+would've been a lot easier
+
+107
+00:04:02,537 --> 00:04:04,877
+if you hadn't designed sloppy
+services in the first place.
+
+108
+00:04:04,915 --> 00:04:05,915
+Oh, silly me.
+
+109
+00:04:05,916 --> 00:04:07,496
+I guess when I hacked together
+
+110
+00:04:07,542 --> 00:04:09,452
+the video chat as an in-house tool,
+
+111
+00:04:09,503 --> 00:04:12,123
+I didn't foresee that hundreds
+of thousands of people
+
+112
+00:04:12,172 --> 00:04:15,172
+would shit themselves over
+how fucking awesome it was.
+
+113
+00:04:15,217 --> 00:04:17,597
+I'll never underestimate
+my talents again.
+
+114
+00:04:17,636 --> 00:04:20,386
+Don't worry. I'll continue
+to do it for you.
+
+115
+00:04:20,430 --> 00:04:22,310
+Less talk, more work, boys.
+
+116
+00:04:22,349 --> 00:04:24,349
+I'm not paying you to coffee klatsch
+
+117
+00:04:24,392 --> 00:04:26,092
+like a bunch of fucking yentas.
+
+118
+00:04:26,144 --> 00:04:27,434
+You're not paying us at all.
+
+119
+00:04:27,562 --> 00:04:29,722
+I'm not paying you because
+you're not the one
+
+120
+00:04:29,773 --> 00:04:32,233
+getting fucked face-first
+by your credit card company
+
+121
+00:04:32,275 --> 00:04:34,565
+because of massive AWS hosting fees.
+
+122
+00:04:34,611 --> 00:04:37,151
+Well, you should bear 100
+percent of the company's cost,
+
+123
+00:04:37,197 --> 00:04:39,947
+seeing as you do own 100
+percent of the company.
+
+124
+00:04:39,991 --> 00:04:42,241
+What's taking you so long to
+give us our fucking shares?
+
+125
+00:04:42,285 --> 00:04:44,825
+Recapping a company is complex.
+
+126
+00:04:44,871 --> 00:04:47,781
+But I assure you, Big Head
+and I are on the case.
+
+127
+00:04:47,833 --> 00:04:49,793
+DINESH: You better be. We're not
+gonna work for free forever.
+
+128
+00:04:51,753 --> 00:04:53,873
+Hey, the Karachi Kid and I finished.
+
+129
+00:04:53,922 --> 00:04:55,042
+Did you push your code?
+
+130
+00:04:56,132 --> 00:04:57,502
+Uh...
+
+131
+00:04:57,551 --> 00:04:58,841
+actually, no.
+
+132
+00:04:58,885 --> 00:05:01,055
+Well, Your Highness, could
+you please push your code?
+
+133
+00:05:01,096 --> 00:05:02,676
+Well, I couldn't push that code,
+
+134
+00:05:02,722 --> 00:05:05,262
+because I didn't write that code.
+
+135
+00:05:05,308 --> 00:05:07,808
+What? We stayed up for two fucking days.
+
+136
+00:05:07,853 --> 00:05:09,263
+Why didn't you write your code?
+
+137
+00:05:09,312 --> 00:05:12,142
+Well, because I was working
+on something much better.
+
+138
+00:05:12,190 --> 00:05:13,940
+(LAUGHS)
+
+139
+00:05:13,984 --> 00:05:17,234
+So, I started to optimize our
+code to handle higher tr...
+
+140
+00:05:19,823 --> 00:05:21,573
+You're supposed to follow me.
+
+141
+00:05:21,616 --> 00:05:22,866
+Oh.
+
+142
+00:05:22,909 --> 00:05:25,409
+I, uh, I started to optimize our code
+
+143
+00:05:25,453 --> 00:05:26,783
+to handle higher traffic.
+
+144
+00:05:26,830 --> 00:05:29,250
+Then it occurred to me,
+why rewrite our old code
+
+145
+00:05:29,291 --> 00:05:31,871
+when I can build a new encoder
+
+146
+00:05:31,918 --> 00:05:35,048
+that doesn't strip away a ton
+of channels and metadata.
+
+147
+00:05:36,298 --> 00:05:39,468
+So, I extended my compression algorithm
+
+148
+00:05:39,509 --> 00:05:42,849
+to support... get this... 12-bit color.
+
+149
+00:05:43,889 --> 00:05:45,349
+(LAUGHS)
+
+150
+00:05:45,390 --> 00:05:48,480
+Okay, so our users will
+be able to experience
+
+151
+00:05:48,518 --> 00:05:51,058
+a 10 percent increase in image quality
+
+152
+00:05:51,104 --> 00:05:54,604
+with absolutely no increase
+in server load whatsoever.
+
+153
+00:05:54,649 --> 00:05:56,739
+Just-Just-Just... Just watch this.
+
+154
+00:05:56,776 --> 00:05:58,526
+Before.
+
+155
+00:05:58,570 --> 00:05:59,570
+After.
+
+156
+00:05:59,613 --> 00:06:00,983
+Before.
+
+157
+00:06:01,031 --> 00:06:02,481
+After.
+
+158
+00:06:02,532 --> 00:06:05,282
+Richard, I'm trying very hard
+
+159
+00:06:05,327 --> 00:06:07,617
+not to completely lose
+my shit right now.
+
+160
+00:06:07,662 --> 00:06:08,822
+I get it. I get it.
+
+161
+00:06:08,872 --> 00:06:11,702
+After every VC in town turned us down,
+
+162
+00:06:11,750 --> 00:06:14,960
+we decided that the
+best way to stay alive
+
+163
+00:06:15,003 --> 00:06:19,583
+until we got to a million users
+was to cut server usage.
+
+164
+00:06:19,633 --> 00:06:20,793
+Remember that?
+
+165
+00:06:20,842 --> 00:06:22,712
+The whole reason that Gilfoyle and I
+
+166
+00:06:22,761 --> 00:06:25,131
+stayed up for 48 fucking straight hours
+
+167
+00:06:25,180 --> 00:06:28,440
+was to decrease server load,
+
+168
+00:06:28,475 --> 00:06:30,595
+not keep it the same.
+
+169
+00:06:30,644 --> 00:06:32,724
+Technically, the reason why
+we stayed up for two days
+
+170
+00:06:32,771 --> 00:06:35,221
+was to maximize our ability
+to get a million users,
+
+171
+00:06:35,273 --> 00:06:36,933
+and I just did that.
+
+172
+00:06:36,983 --> 00:06:40,353
+Because who doesn't want 10
+percent better image quality?
+
+173
+00:06:40,403 --> 00:06:42,443
+Who doesn't want it? Everyone.
+
+174
+00:06:42,489 --> 00:06:43,909
+Everyone doesn't want it!
+
+175
+00:06:43,949 --> 00:06:45,739
+GILFOYLE: We already have
+the best video chat.
+
+176
+00:06:45,784 --> 00:06:47,404
+People are using this
+on their cellphones.
+
+177
+00:06:47,452 --> 00:06:49,532
+They're not gonna be able to
+tell the fucking difference.
+
+178
+00:06:49,579 --> 00:06:51,459
+Guys, this is a better product,
+
+179
+00:06:51,498 --> 00:06:54,338
+and I'm the CEO, and I'm gonna
+say this is where we go.
+
+180
+00:06:54,376 --> 00:06:56,416
+- You fucking prick.
+- Whoa.
+
+181
+00:06:56,461 --> 00:06:59,291
+Guys... please be civil.
+
+182
+00:06:59,339 --> 00:07:01,679
+- You hate the video chat.
+- I don't hate the video chat, Dinesh.
+
+183
+00:07:01,716 --> 00:07:04,096
+You've always hated the video
+chat, because it's my thing,
+
+184
+00:07:04,135 --> 00:07:05,965
+and you wanna rewrite it
+to make it all about you.
+
+185
+00:07:06,012 --> 00:07:07,672
+You're fucking jealous.
+
+186
+00:07:07,722 --> 00:07:09,422
+Jealous? Jealous? (SCOFFS)
+
+187
+00:07:09,474 --> 00:07:11,594
+You built the video chat,
+I'll give you that. Okay.
+
+188
+00:07:11,643 --> 00:07:14,433
+You did, but you did
+it using my algorithm.
+
+189
+00:07:14,479 --> 00:07:16,689
+Right, like when Picasso
+painted a masterpiece,
+
+190
+00:07:16,731 --> 00:07:18,311
+the guy who made the
+brushes and the paint
+
+191
+00:07:18,358 --> 00:07:19,608
+deserved all the credit, right?
+
+192
+00:07:19,651 --> 00:07:20,771
+So you're Picasso now?
+
+193
+00:07:20,819 --> 00:07:22,819
+I think I need to... leave,
+
+194
+00:07:22,862 --> 00:07:24,112
+but I love you guys.
+
+195
+00:07:24,155 --> 00:07:25,445
+Dinesh, I'm sorry,
+
+196
+00:07:25,490 --> 00:07:27,790
+but I think we should be
+doing a little bit more
+
+197
+00:07:27,826 --> 00:07:29,706
+with this revolutionary
+compression algorithm
+
+198
+00:07:29,744 --> 00:07:31,034
+than passable video chat.
+
+199
+00:07:31,079 --> 00:07:33,419
+But we already did more, Richard.
+
+200
+00:07:33,456 --> 00:07:35,246
+It was called "the platform."
+
+201
+00:07:35,291 --> 00:07:37,041
+And it was exactly what
+you wanted to make,
+
+202
+00:07:37,085 --> 00:07:38,915
+and it fucking failed, okay?
+
+203
+00:07:38,962 --> 00:07:41,122
+I'm sorry, but it's bad enough
+
+204
+00:07:41,172 --> 00:07:43,082
+that we can't get any
+funding because of you.
+
+205
+00:07:43,133 --> 00:07:44,883
+You're killing us out there.
+
+206
+00:07:44,926 --> 00:07:47,596
+Don't also sabotage us in here, too.
+
+207
+00:07:47,637 --> 00:07:49,597
+Pied Piper is a video chat company.
+
+208
+00:07:49,639 --> 00:07:51,479
+Get your head around that.
+
+209
+00:07:54,227 --> 00:07:56,567
+I'm quite certain I've
+never said this before.
+
+210
+00:07:57,856 --> 00:07:59,526
+I agree with Dinesh.
+
+211
+00:08:05,697 --> 00:08:06,697
+Well.
+
+212
+00:08:12,412 --> 00:08:16,622
+Oh. Well, that was just
+a whole heap of fun.
+
+213
+00:08:16,666 --> 00:08:20,086
+Ordinarily, I loathe coming to China,
+but when you close a deal like that,
+
+214
+00:08:20,128 --> 00:08:22,918
+it makes the whole trip a delight.
+
+215
+00:08:22,964 --> 00:08:24,624
+Champagne, gentlemen?
+
+216
+00:08:24,674 --> 00:08:26,504
+I think that's very much in order.
+
+217
+00:08:27,969 --> 00:08:29,889
+I know you don't toot your own horn,
+
+218
+00:08:29,929 --> 00:08:31,479
+so I'll do it for you.
+
+219
+00:08:31,514 --> 00:08:32,804
+Here to you, Jack,
+
+220
+00:08:32,849 --> 00:08:34,939
+and to your Hooli/Endframe box
+
+221
+00:08:34,976 --> 00:08:38,146
+becoming the most successful
+American data storage appliance
+
+222
+00:08:38,188 --> 00:08:40,688
+to ever be manufactured in China.
+
+223
+00:08:41,691 --> 00:08:42,811
+Toot, toot.
+
+224
+00:08:42,859 --> 00:08:47,029
+Watch your back, Jeff
+Bezos, here comes Hooli.
+
+225
+00:08:47,072 --> 00:08:50,032
+All right, gentlemen... our flight today
+
+226
+00:08:50,075 --> 00:08:52,325
+from Shanghai to Moffett
+Field in Mountain View
+
+227
+00:08:52,368 --> 00:08:54,918
+will be just over 11
+hours, so if you'll just...
+
+228
+00:08:54,954 --> 00:08:58,784
+Oh, actually, I was headed up to
+Jackson Hole, see the wife and kids.
+
+229
+00:08:58,833 --> 00:09:00,663
+I... I was gonna charter up tomorrow,
+
+230
+00:09:00,710 --> 00:09:03,300
+but maybe you could ask the boys
+
+231
+00:09:03,338 --> 00:09:05,258
+just to drop me off on the way?
+
+232
+00:09:05,298 --> 00:09:06,678
+Save me the trouble?
+
+233
+00:09:06,716 --> 00:09:08,926
+Of course.
+
+234
+00:09:08,968 --> 00:09:11,598
+Well, and I mean, it's
+really not a big deal,
+
+235
+00:09:11,638 --> 00:09:14,848
+but since we are headed east,
+I think Jackson is further.
+
+236
+00:09:14,891 --> 00:09:16,381
+Maybe we'll head to Moffett first,
+
+237
+00:09:16,434 --> 00:09:18,604
+then have the guys hop
+you onto Jackson, okay?
+
+238
+00:09:18,645 --> 00:09:21,185
+Well... Well, actually,
+on flights like this,
+
+239
+00:09:21,231 --> 00:09:23,231
+the boys like to go over the Pole,
+
+240
+00:09:23,274 --> 00:09:25,894
+so that, technically, is a
+little more north to south,
+
+241
+00:09:25,944 --> 00:09:28,064
+and Jackson is quite
+a bit further north.
+
+242
+00:09:28,113 --> 00:09:30,073
+So I think, maybe, just
+go to Jackson first,
+
+243
+00:09:30,115 --> 00:09:32,035
+then head on off to Moffett.
+That sound good?
+
+244
+00:09:32,075 --> 00:09:34,115
+- Of course.
+- Great.
+
+245
+00:09:34,160 --> 00:09:35,960
+I'm gonna get a pillow.
+
+246
+00:09:35,995 --> 00:09:38,245
+♪ ♪
+
+247
+00:09:42,335 --> 00:09:45,755
+You know what we desperately
+need is a palapa.
+
+248
+00:09:45,797 --> 00:09:47,257
+A ploppa?
+
+249
+00:09:47,298 --> 00:09:49,088
+A palapa.
+
+250
+00:09:49,134 --> 00:09:51,924
+It's a Mexican structure
+with palm fronds.
+
+251
+00:09:51,970 --> 00:09:53,470
+It's essentially a gazebo,
+
+252
+00:09:53,513 --> 00:09:58,053
+but spicier and with a south-
+of-the-border kind of vibe.
+
+253
+00:09:58,101 --> 00:10:00,931
+I think it would make
+us feel less exposed.
+
+254
+00:10:00,979 --> 00:10:03,479
+And generally, I think it
+would be good for morale.
+
+255
+00:10:03,523 --> 00:10:06,483
+Speaking of which, morale has
+not exactly been skyrocketing.
+
+256
+00:10:06,526 --> 00:10:10,026
+So, we need to get this cap
+table done<i> tout de suite.</i>
+
+257
+00:10:10,071 --> 00:10:11,731
+Richard and the fellows
+
+258
+00:10:11,781 --> 00:10:14,231
+are entitled to 40
+percent of the company.
+
+259
+00:10:14,284 --> 00:10:15,494
+Now, if we each give 20 percent,
+
+260
+00:10:15,535 --> 00:10:18,615
+we would still own 30 percent each.
+
+261
+00:10:18,663 --> 00:10:20,163
+That seems fair.
+
+262
+00:10:20,206 --> 00:10:21,626
+Seems totally fair to me.
+
+263
+00:10:21,666 --> 00:10:22,876
+Dad?
+
+264
+00:10:22,917 --> 00:10:25,297
+<i>Nope. Not gonna happen.</i>
+
+265
+00:10:25,336 --> 00:10:27,916
+Mr. Bighetti, with all due respect, I...
+
+266
+00:10:27,964 --> 00:10:29,504
+<i>If you had any respect,</i>
+
+267
+00:10:29,549 --> 00:10:32,139
+<i>you wouldn't have talked my
+son into wasting his money...</i>
+
+268
+00:10:32,177 --> 00:10:33,217
+<i>again.</i>
+
+269
+00:10:33,261 --> 00:10:35,011
+<i>My son's not giving up one share.</i>
+
+270
+00:10:35,054 --> 00:10:37,054
+<i>Not now, not ever.</i>
+
+271
+00:10:37,098 --> 00:10:40,558
+Mr. Bighetti, if you're going to
+control your son's board seat,
+
+272
+00:10:40,602 --> 00:10:42,222
+these decisions have to be unanimous.
+
+273
+00:10:42,270 --> 00:10:43,690
+You're going to kill this comp...
+
+274
+00:10:43,730 --> 00:10:45,280
+<i>I don't care.</i>
+
+275
+00:10:45,315 --> 00:10:47,525
+<i>In my eyes, the company
+is already dead.</i>
+
+276
+00:10:47,567 --> 00:10:48,697
+<i>Killed by you.</i>
+
+277
+00:10:49,694 --> 00:10:51,194
+<i>That's my edge.</i>
+
+278
+00:10:51,237 --> 00:10:52,987
+If all I accomplish by doing this
+
+279
+00:10:53,031 --> 00:10:55,861
+<i>is making you as miserable
+as you've made me</i>
+
+280
+00:10:55,909 --> 00:10:58,079
+<i>watching you fleece my son,</i>
+
+281
+00:10:58,119 --> 00:10:59,579
+<i>then I'm okay with that.</i>
+
+282
+00:10:59,621 --> 00:11:01,621
+He seems okay with that.
+
+283
+00:11:01,664 --> 00:11:03,954
+So you expect me to give the 40 percent
+
+284
+00:11:04,000 --> 00:11:07,090
+to the gents from my 50 percent,
+
+285
+00:11:07,128 --> 00:11:09,298
+effectively leaving me with 10 percent?
+
+286
+00:11:09,339 --> 00:11:10,629
+<i>Yes.</i>
+
+287
+00:11:10,673 --> 00:11:12,333
+No. No, no, no.
+
+288
+00:11:12,383 --> 00:11:16,553
+Then I would've invested 500
+thou... a half of a million dollars
+
+289
+00:11:16,596 --> 00:11:18,636
+just to end up where I started?
+
+290
+00:11:18,681 --> 00:11:19,841
+Unacceptable.
+
+291
+00:11:19,891 --> 00:11:21,591
+<i>I can accept that.</i>
+
+292
+00:11:21,643 --> 00:11:23,263
+<i>I'm going to bed.</i>
+
+293
+00:11:23,311 --> 00:11:24,931
+- (SIGHS)
+<i>- Good night, Brown Bear.</i>
+
+294
+00:11:24,979 --> 00:11:26,189
+Love you, Papa Bear.
+
+295
+00:11:26,231 --> 00:11:28,681
+♪ ♪
+
+296
+00:11:28,733 --> 00:11:31,393
+(LAUGHING)
+
+297
+00:11:42,121 --> 00:11:44,911
+(LAUGHING)
+
+298
+00:11:44,958 --> 00:11:46,838
+(MUTTERS) Goddamn motherfucker.
+
+299
+00:11:46,876 --> 00:11:50,086
+RICHARD: I mean, the guys are right.
+I'm fucking up the company.
+
+300
+00:11:50,129 --> 00:11:52,089
+I'm not helping in any way.
+
+301
+00:11:52,131 --> 00:11:55,251
+You're certainly not helping
+your cuticles by biting on them.
+
+302
+00:11:55,301 --> 00:11:58,131
+Your nail beds are gonna get infected.
+
+303
+00:11:58,179 --> 00:12:00,019
+Where'd you learn how
+to do this, anyway?
+
+304
+00:12:00,056 --> 00:12:03,096
+When I was on the street,
+it was a means of survival.
+
+305
+00:12:04,769 --> 00:12:07,149
+- (CLEARS THROAT)
+- I don't know, it's just that...
+
+306
+00:12:07,188 --> 00:12:09,028
+I mean, I almost killed us,
+
+307
+00:12:09,065 --> 00:12:10,985
+the company, and that is so selfish.
+
+308
+00:12:11,025 --> 00:12:13,235
+I mean, if we have to
+get a million users,
+
+309
+00:12:13,278 --> 00:12:15,868
+I need to get us funding, right now.
+
+310
+00:12:15,905 --> 00:12:17,655
+How? We've already been turned down
+
+311
+00:12:17,699 --> 00:12:19,619
+by every respectable VC in town.
+
+312
+00:12:20,952 --> 00:12:22,242
+♪ ♪
+
+313
+00:12:22,287 --> 00:12:24,957
+Who said anything about... respectable?
+
+314
+00:12:27,166 --> 00:12:28,796
+Oh, Richard, no.
+
+315
+00:12:28,835 --> 00:12:31,085
+Fuck yes, I want to talk business.
+What's the play?
+
+316
+00:12:31,129 --> 00:12:32,669
+Let's fuck this thing
+right in the pussy.
+
+317
+00:12:32,714 --> 00:12:35,424
+- (SCHOOL BELL RINGS)
+- Thanks for meeting me here.
+
+318
+00:12:35,466 --> 00:12:37,346
+My fucking nanny got another DUI
+
+319
+00:12:37,385 --> 00:12:39,175
+and lost her license, and
+I'm stuck picking up
+
+320
+00:12:39,220 --> 00:12:41,060
+my own kid like an asshole.
+So what's up?
+
+321
+00:12:41,097 --> 00:12:42,847
+- (PEOPLE CHATTERING)
+- Uhh...
+
+322
+00:12:42,890 --> 00:12:46,270
+Well, I know you wanted to buy
+Erlich's Pied Piper shares
+
+323
+00:12:46,311 --> 00:12:48,311
+back in the previous
+iteration, the platform.
+
+324
+00:12:48,354 --> 00:12:50,894
+Well, I was hoping you would want
+to come on as a follow-on investor
+
+325
+00:12:50,940 --> 00:12:53,150
+- for the current platform.
+- The video chat?
+
+326
+00:12:53,192 --> 00:12:56,192
+Yeah. It's got a great tech.
+We're growing like crazy.
+
+327
+00:12:56,237 --> 00:12:58,737
+In fact, that's why we need
+funding, to keep up with the users,
+
+328
+00:12:58,781 --> 00:13:01,651
+and I think it could be really good
+if we could just keep it going.
+
+329
+00:13:01,701 --> 00:13:03,451
+No, you don't.
+
+330
+00:13:03,494 --> 00:13:05,164
+What?
+
+331
+00:13:05,204 --> 00:13:06,784
+You don't like it.
+
+332
+00:13:06,831 --> 00:13:08,491
+You don't believe in this
+product you're selling.
+
+333
+00:13:08,541 --> 00:13:13,041
+(STAMMERS) Russ, no, that's...
+It's a good, sound business.
+
+334
+00:13:13,087 --> 00:13:14,797
+As I said, the tech is great
+
+335
+00:13:14,839 --> 00:13:16,589
+and all the guys are really behind it.
+
+336
+00:13:16,632 --> 00:13:18,042
+But you're not behind it, Richard.
+
+337
+00:13:18,092 --> 00:13:21,632
+I can tell, and as much as
+you want to be, you're not.
+
+338
+00:13:21,679 --> 00:13:23,389
+It's like this.
+
+339
+00:13:23,431 --> 00:13:25,261
+You're trying to date a woman,
+
+340
+00:13:25,308 --> 00:13:27,898
+- but deep down in your heart you know you're gay.
+- Uhh...
+
+341
+00:13:27,935 --> 00:13:31,265
+Deep in your soul, you know you
+would rather be plowing a dude!
+
+342
+00:13:31,314 --> 00:13:34,734
+I don't... I do... Okay, what dude?
+
+343
+00:13:34,776 --> 00:13:37,696
+It could be any dude, as long
+as you really want to fuck him.
+
+344
+00:13:37,737 --> 00:13:39,867
+It could be a... a twink, a bear,
+
+345
+00:13:39,906 --> 00:13:42,036
+an otter, a circuit queen,
+a chub, a pup, a gipster,
+
+346
+00:13:42,075 --> 00:13:44,615
+a daddy chaser, a leather man,
+a ladyboy, a Donald Duck.
+
+347
+00:13:44,660 --> 00:13:47,580
+- (STAMMERS)
+- Donald Duck's a gay guy who's been kicked out of the Navy.
+
+348
+00:13:47,622 --> 00:13:49,282
+H-How do you know so many gay things?
+
+349
+00:13:49,332 --> 00:13:52,042
+My grandfather just came out of the
+closet. Beautiful. Very inspiring.
+
+350
+00:13:52,085 --> 00:13:54,955
+But the point is, if you're
+gonna spend all day fucking,
+
+351
+00:13:55,004 --> 00:13:58,254
+shouldn't Pied Piper be
+a dude you wanna fuck?
+
+352
+00:13:59,634 --> 00:14:01,094
+All right. Let's do an exercise.
+
+353
+00:14:01,135 --> 00:14:02,925
+You've got unlimited time and resources,
+
+354
+00:14:02,970 --> 00:14:05,140
+you can build anything in the world
+you want with your compression,
+
+355
+00:14:05,181 --> 00:14:06,511
+anything at all, what's it gonna be?
+
+356
+00:14:06,557 --> 00:14:09,147
+- Three, two, one, go. Go, go, go.
+- (STAMMERS)
+
+357
+00:14:09,185 --> 00:14:11,685
+- You said I have unlimited time?
+- Now. Now, now!
+
+358
+00:14:11,729 --> 00:14:13,149
+A new Internet.
+
+359
+00:14:13,189 --> 00:14:15,239
+What? Why?
+
+360
+00:14:15,274 --> 00:14:18,274
+Okay. Well, I haven't really
+thought this through, so...
+
+361
+00:14:20,071 --> 00:14:21,981
+Okay.
+
+362
+00:14:22,031 --> 00:14:23,981
+- I own a telescope...
+- Of course you do.
+
+363
+00:14:24,033 --> 00:14:27,993
+and I brought it out one
+night to look at the full moon.
+
+364
+00:14:28,037 --> 00:14:30,577
+- Of course you did.
+- And I got to thinking...
+
+365
+00:14:31,624 --> 00:14:34,084
+"Wow, we put a man on the moon
+
+366
+00:14:34,127 --> 00:14:37,127
+using the computing power
+of a handheld calculator."
+
+367
+00:14:38,214 --> 00:14:40,544
+And then I thought, "Okay...
+
+368
+00:14:40,591 --> 00:14:43,801
+"there's literally millions of times
+
+369
+00:14:43,845 --> 00:14:45,805
+"more computing power in my phone
+
+370
+00:14:45,847 --> 00:14:48,847
+and that's just sitting in my
+pocket doing nothing." Right?
+
+371
+00:14:48,891 --> 00:14:52,391
+So then I thought, there's,
+what, billions of phones
+
+372
+00:14:52,437 --> 00:14:55,147
+all around the world with
+the same computing power
+
+373
+00:14:55,189 --> 00:14:57,109
+just sitting in people's pockets.
+
+374
+00:14:57,150 --> 00:15:01,490
+So then I thought, "What
+if we use all those phones
+
+375
+00:15:01,529 --> 00:15:03,449
+to build a massive network?"
+
+376
+00:15:03,489 --> 00:15:06,409
+And here's the kicker... We
+use my compression algorithm
+
+377
+00:15:06,451 --> 00:15:09,151
+to make everything small and efficient
+to move things around, and...
+
+378
+00:15:10,246 --> 00:15:11,786
+if we could do it...
+
+379
+00:15:11,831 --> 00:15:15,541
+we could build a completely
+decentralized version
+
+380
+00:15:15,585 --> 00:15:18,205
+of our current Internet,
+with no firewalls,
+
+381
+00:15:18,254 --> 00:15:21,504
+no tolls, no government regulation,
+
+382
+00:15:21,549 --> 00:15:24,929
+no spying. Information...
+
+383
+00:15:24,969 --> 00:15:27,139
+would be totally free in
+every sense of the word.
+
+384
+00:15:28,222 --> 00:15:30,052
+You wanna build a new Internet?
+
+385
+00:15:30,099 --> 00:15:33,559
+- Yeah, it's...
+- Richard, I like it.
+
+386
+00:15:33,603 --> 00:15:35,103
+That I would fund.
+
+387
+00:15:35,146 --> 00:15:37,476
+Well, I-I... I don't know
+if it's possible, and...
+
+388
+00:15:37,523 --> 00:15:40,063
+Look, if this new Internet
+is the man of your dreams
+
+389
+00:15:40,109 --> 00:15:41,819
+and this is the man that you wanna fuck,
+
+390
+00:15:41,861 --> 00:15:43,191
+then you need to fuck him.
+
+391
+00:15:43,237 --> 00:15:45,157
+That man I will pay you to fuck.
+
+392
+00:15:45,198 --> 00:15:46,278
+Where the fuck is that kid?
+
+393
+00:15:47,492 --> 00:15:48,492
+Wait a minute.
+
+394
+00:15:49,577 --> 00:15:50,617
+Aw, shit.
+
+395
+00:15:50,661 --> 00:15:52,241
+They kicked us out of this place.
+
+396
+00:15:52,288 --> 00:15:55,078
+I'm at the wrong fucking school.
+
+397
+00:15:55,124 --> 00:15:59,374
+Richard, you find that
+man, fuck him good.
+
+398
+00:15:59,420 --> 00:16:01,800
+- (ENGINE REVVING)
+- Careful please. He's gonna peel out.
+
+399
+00:16:01,839 --> 00:16:03,625
+<i>♪ Cut my life into pieces,
+this is my last resort ♪</i>
+
+400
+00:16:03,627 --> 00:16:04,627
+(TIRES SCREECH)
+
+401
+00:16:09,388 --> 00:16:11,348
+Monica, I need to...
+
+402
+00:16:11,390 --> 00:16:13,390
+Oh. You're not...
+
+403
+00:16:13,434 --> 00:16:17,144
+Monica? No. Thank God. I'm Ed Chen.
+
+404
+00:16:17,188 --> 00:16:19,978
+Laurie put me in the good office
+and moved Monica down the hall.
+
+405
+00:16:20,983 --> 00:16:22,563
+Way down the hall.
+
+406
+00:16:24,237 --> 00:16:26,237
+Okay. Sorry.
+
+407
+00:16:26,280 --> 00:16:28,620
+You're gonna listen to Russ Hanneman?
+
+408
+00:16:28,658 --> 00:16:31,038
+Richard, you sound like a crazy person.
+
+409
+00:16:31,077 --> 00:16:32,867
+I know, but... but Russ is right.
+
+410
+00:16:32,912 --> 00:16:33,527
+(TOILET FLUSHES)
+
+411
+00:16:33,529 --> 00:16:35,373
+I mean, I hate the video chat.
+I really do.
+
+412
+00:16:35,414 --> 00:16:36,874
+- Oh...
+- What?
+
+413
+00:16:38,626 --> 00:16:40,206
+Oh, wow, you can see right into the...
+
+414
+00:16:40,253 --> 00:16:42,003
+Yeah, I'm very aware.
+
+415
+00:16:42,046 --> 00:16:45,006
+Laurie is punishing me
+for taking your side
+
+416
+00:16:45,049 --> 00:16:47,929
+and going against her, so
+she moved me down here
+
+417
+00:16:47,969 --> 00:16:50,009
+and gave my office to that little
+
+418
+00:16:50,054 --> 00:16:52,224
+brownnosing shit, Ed Chen.
+
+419
+00:16:52,265 --> 00:16:54,805
+Anyway, Richard, you're not
+gonna seriously go home
+
+420
+00:16:54,850 --> 00:16:56,400
+and tell the guys in your company
+
+421
+00:16:56,435 --> 00:16:58,605
+that even though your user
+rates are skyrocketing
+
+422
+00:16:58,646 --> 00:16:59,686
+that you wanna pivot.
+
+423
+00:16:59,730 --> 00:17:01,400
+For the past 48 hours,
+
+424
+00:17:01,440 --> 00:17:03,860
+I've been trying to rewrite
+the core video chat code,
+
+425
+00:17:03,901 --> 00:17:05,401
+and I literally can't.
+
+426
+00:17:05,444 --> 00:17:07,694
+Instead of typing, I just
+bite my fingernails.
+
+427
+00:17:07,738 --> 00:17:09,488
+I think, subconsciously,
+
+428
+00:17:09,532 --> 00:17:12,822
+I would rather bite my own fingers
+off than work on this platform.
+
+429
+00:17:12,868 --> 00:17:14,618
+Richard, I know people who have spent
+
+430
+00:17:14,662 --> 00:17:16,742
+their entire careers
+chasing after an app
+
+431
+00:17:16,789 --> 00:17:19,089
+with this kind of growth
+rate and never hit it.
+
+432
+00:17:19,125 --> 00:17:20,455
+It's a really good product.
+
+433
+00:17:20,501 --> 00:17:22,791
+That may be, but it's not for me.
+
+434
+00:17:24,088 --> 00:17:26,088
+And look, I know these
+guys are my friends,
+
+435
+00:17:26,132 --> 00:17:29,792
+but they're also my employees,
+and it's my company.
+
+436
+00:17:29,844 --> 00:17:32,964
+So... if I say we have
+to pivot, we pivot.
+
+437
+00:17:33,014 --> 00:17:36,134
+Okay. I-I... I have to go.
+
+438
+00:17:36,183 --> 00:17:38,763
+All right. Well, if you're sure, then
+tell them and then call me and tell...
+
+439
+00:17:38,811 --> 00:17:40,221
+What? No, I... I have to go.
+
+440
+00:17:40,271 --> 00:17:43,731
+There's another men's
+room on the fourth floor.
+
+441
+00:17:43,774 --> 00:17:46,774
+Right. 'Cause then you would've
+seen mine twice. (CHUCKLES)
+
+442
+00:17:46,819 --> 00:17:51,369
+♪ ♪
+
+443
+00:17:51,407 --> 00:17:54,287
+I mean, we're all thinking it, right?
+
+444
+00:17:54,327 --> 00:17:57,167
+Richard is fucking with a
+product that is working.
+
+445
+00:17:57,204 --> 00:17:59,874
+He should not be the
+CEO of this company.
+
+446
+00:17:59,915 --> 00:18:01,835
+- (SIGHS)
+- I understand your concerns,
+
+447
+00:18:01,876 --> 00:18:04,586
+but is this the time
+that we fire Richard?
+
+448
+00:18:04,629 --> 00:18:06,799
+Is this the moment
+that I become the CEO?
+
+449
+00:18:06,839 --> 00:18:08,339
+You? Why you?
+
+450
+00:18:08,382 --> 00:18:11,172
+It's a simple process of elimination.
+
+451
+00:18:11,218 --> 00:18:13,178
+Gilfoyle, as an anarchist
+
+452
+00:18:13,220 --> 00:18:15,350
+would never accept a
+position of authority
+
+453
+00:18:15,389 --> 00:18:17,939
+- in any official organization.
+- None.
+
+454
+00:18:17,975 --> 00:18:19,845
+And you, of course, are
+out of the picture,
+
+455
+00:18:19,894 --> 00:18:21,474
+because Gilfoyle would never allow it.
+
+456
+00:18:21,520 --> 00:18:22,940
+Yeah, that's true.
+
+457
+00:18:22,980 --> 00:18:26,610
+And Jared, he'd sooner
+commit hara-kiri than...
+
+458
+00:18:26,651 --> 00:18:28,651
+replace little baby Richard.
+
+459
+00:18:28,694 --> 00:18:29,944
+So that leaves me.
+
+460
+00:18:29,987 --> 00:18:31,657
+And honestly, gents, who
+would you rather have
+
+461
+00:18:31,697 --> 00:18:34,487
+defending your four percent
+stake in the company...
+
+462
+00:18:34,533 --> 00:18:35,903
+- Five.
+- What?
+
+463
+00:18:35,951 --> 00:18:37,901
+- Five percent.
+- You said four. Was it...
+
+464
+00:18:37,953 --> 00:18:39,573
+You said three, and then you had...
+
+465
+00:18:39,622 --> 00:18:41,242
+- No, it's five.
+- GILFOYLE: Five.
+
+466
+00:18:41,290 --> 00:18:43,040
+You know what? I'm gonna back channel,
+
+467
+00:18:43,084 --> 00:18:46,254
+look at some notes, and we'll get to it.
+
+468
+00:18:46,295 --> 00:18:50,385
+In the meantime, if and when...
+
+469
+00:18:50,424 --> 00:18:53,464
+we are to depose Richard,
+I am his obvious heir.
+
+470
+00:18:53,511 --> 00:18:54,841
+Erlich, no offense,
+
+471
+00:18:54,887 --> 00:18:59,267
+but the board is you,
+Richard, and my dad, right?
+
+472
+00:18:59,308 --> 00:19:01,938
+So, I think that means you and my dad
+
+473
+00:19:01,977 --> 00:19:04,937
+would have to agree on
+who replaces Richard,
+
+474
+00:19:04,980 --> 00:19:07,780
+and pretty sure my dad would,
+like, never approve you.
+
+475
+00:19:07,817 --> 00:19:09,237
+- It's just not gonna happen.
+- Thank you.
+
+476
+00:19:09,276 --> 00:19:11,736
+- Yeah.
+- There is someone else.
+
+477
+00:19:13,155 --> 00:19:15,655
+Someone who has zero
+strikes against him.
+
+478
+00:19:15,825 --> 00:19:18,195
+Someone who has held
+high-level positions
+
+479
+00:19:18,244 --> 00:19:20,364
+at one of the biggest tech
+companies in the Valley.
+
+480
+00:19:22,581 --> 00:19:24,121
+Someone who's been on the cover
+
+481
+00:19:24,166 --> 00:19:27,376
+of one of the most prestigious
+tech publications in the world.
+
+482
+00:19:29,130 --> 00:19:30,130
+He sounds awesome.
+
+483
+00:19:30,172 --> 00:19:31,712
+Could we get him?
+
+484
+00:19:31,757 --> 00:19:35,257
+♪ ♪
+
+485
+00:19:35,302 --> 00:19:37,172
+And as of now, we've got the votes...
+
+486
+00:19:37,221 --> 00:19:38,841
+of enough key Malaysian ministers
+
+487
+00:19:38,889 --> 00:19:40,269
+to proceed with construction,
+
+488
+00:19:40,307 --> 00:19:42,397
+but that support is time-critical.
+
+489
+00:19:42,435 --> 00:19:45,265
+Carol's right. We'd have to break
+ground before monsoon season
+
+490
+00:19:45,312 --> 00:19:48,062
+or else the entire
+project could collapse.
+
+491
+00:19:48,107 --> 00:19:49,527
+So, what do you think?
+
+492
+00:19:53,362 --> 00:19:55,482
+Sorry. About what?
+
+493
+00:19:55,531 --> 00:19:57,071
+About the factory.
+
+494
+00:19:57,116 --> 00:19:58,946
+Ah. The factory.
+
+495
+00:20:00,536 --> 00:20:01,536
+The factory.
+
+496
+00:20:01,579 --> 00:20:02,579
+(DOOR OPENS)
+
+497
+00:20:04,123 --> 00:20:05,373
+Excuse me for a moment.
+
+498
+00:20:05,416 --> 00:20:08,046
+(CLEARS THROAT)
+
+499
+00:20:08,085 --> 00:20:10,545
+- So, what have you got?
+- Well, sir, I did as you asked.
+
+500
+00:20:10,588 --> 00:20:12,678
+I flew the company plane to Shanghai,
+
+501
+00:20:12,715 --> 00:20:14,675
+then Moffett, then Jackson Hole.
+
+502
+00:20:14,717 --> 00:20:17,847
+Then I flew back to Shanghai,
+then to Jackson Hole,
+
+503
+00:20:17,887 --> 00:20:20,517
+then to Moffett, which
+is where I just landed.
+
+504
+00:20:20,556 --> 00:20:24,976
+- And?
+- Moffett is 28.3 minutes closer.
+
+505
+00:20:25,019 --> 00:20:26,053
+I fucking knew it!
+
+506
+00:20:26,188 --> 00:20:27,480
+Barker should've dropped
+you off first, sir.
+
+507
+00:20:27,521 --> 00:20:31,061
+Wait. What about headwinds
+or storm activity?
+
+508
+00:20:31,108 --> 00:20:33,358
+I don't want to give him any
+room to wriggle out of this.
+
+509
+00:20:33,402 --> 00:20:34,692
+Here's what I'm gonna need you to do.
+
+510
+00:20:34,737 --> 00:20:37,447
+Fly each leg five more
+times and average them.
+
+511
+00:20:37,490 --> 00:20:38,870
+It's the only way to be sure.
+
+512
+00:20:38,908 --> 00:20:40,408
+And we're not concerned with the expense
+
+513
+00:20:40,451 --> 00:20:42,361
+of 20 more private
+transcontinental flights?
+
+514
+00:20:42,411 --> 00:20:43,611
+Of course we are.
+
+515
+00:20:43,662 --> 00:20:45,532
+Jack Barker is costing the shareholders
+
+516
+00:20:45,581 --> 00:20:48,531
+of this company a fortune,
+and he must be stopped.
+
+517
+00:20:48,584 --> 00:20:50,084
+I'll go back to Moffett right now.
+
+518
+00:20:50,127 --> 00:20:51,757
+Good. Call me each time
+you're in Shanghai.
+
+519
+00:20:51,796 --> 00:20:53,296
+- I'll see you in a week.
+- Yes, sir.
+
+520
+00:20:54,298 --> 00:20:57,678
+♪ ♪
+
+521
+00:21:08,312 --> 00:21:09,352
+Guys?
+
+522
+00:21:09,396 --> 00:21:10,816
+Shit, he came in the back.
+
+523
+00:21:13,359 --> 00:21:15,069
+Richard, we need to talk.
+
+524
+00:21:15,110 --> 00:21:17,660
+Well, actually, let me just
+say something first here.
+
+525
+00:21:19,657 --> 00:21:22,197
+I don't think Pied Piper should
+be a video chat company.
+
+526
+00:21:22,243 --> 00:21:23,993
+The balls on you.
+
+527
+00:21:24,036 --> 00:21:26,246
+Richard, we've all decided
+
+528
+00:21:26,288 --> 00:21:30,208
+you are out. Big Head is in.
+
+529
+00:21:30,251 --> 00:21:31,319
+Not my call.
+
+530
+00:21:31,419 --> 00:21:33,792
+Richard, we just can't
+keep fucking pivoting.
+
+531
+00:21:33,838 --> 00:21:35,718
+- We won't do it again.
+- Just wait for a second, okay?
+
+532
+00:21:35,756 --> 00:21:37,126
+Just... You're not getting it. Please.
+
+533
+00:21:37,174 --> 00:21:39,044
+Uh, I'm quitting.
+
+534
+00:21:40,719 --> 00:21:42,269
+Wait. What?
+
+535
+00:21:42,304 --> 00:21:44,344
+Richard, I was waiting out front!
+
+536
+00:21:44,390 --> 00:21:46,190
+They want to ambush you and
+replace you with Big Head,
+
+537
+00:21:46,225 --> 00:21:47,555
+but I had nothing to do with it.
+
+538
+00:21:47,601 --> 00:21:49,351
+Again, not my call.
+
+539
+00:21:51,730 --> 00:21:53,650
+I was ready to fight you guys,
+
+540
+00:21:53,691 --> 00:21:56,731
+but then, on the way
+home, it occurred to me
+
+541
+00:21:56,777 --> 00:21:57,857
+there might be a better way.
+
+542
+00:21:59,154 --> 00:22:00,694
+I'm going to start my own company.
+
+543
+00:22:00,739 --> 00:22:04,449
+I will give up all of my
+equity in the video chat
+
+544
+00:22:04,493 --> 00:22:09,203
+if I get to completely own my algorithm.
+
+545
+00:22:09,248 --> 00:22:12,168
+I will grant you guys
+a perpetual license
+
+546
+00:22:12,209 --> 00:22:14,089
+to use the algorithm in your video chat,
+
+547
+00:22:14,128 --> 00:22:17,258
+but I need the algorithm
+to build something else.
+
+548
+00:22:17,298 --> 00:22:19,338
+And look, forget a million users,
+
+549
+00:22:19,383 --> 00:22:20,713
+with me out of the company,
+
+550
+00:22:20,759 --> 00:22:22,559
+you guys would be able to
+raise money, no problem.
+
+551
+00:22:22,595 --> 00:22:24,425
+And that way, everybody wins.
+
+552
+00:22:24,471 --> 00:22:29,011
+So we can use the algorithm,
+free and clear, for video chat?
+
+553
+00:22:29,059 --> 00:22:30,133
+Yes.
+
+554
+00:22:30,137 --> 00:22:32,440
+I mean, we... we shouldn't
+even be talking about this.
+
+555
+00:22:32,479 --> 00:22:35,229
+And you would leave
+behind your 25 percent,
+
+556
+00:22:35,274 --> 00:22:39,524
+thus giving me enough equity
+to compensate the boys fairly
+
+557
+00:22:39,570 --> 00:22:41,910
+and Big Head's father would
+retain his 50 percent?
+
+558
+00:22:41,947 --> 00:22:43,277
+I think that's right. Yes.
+
+559
+00:22:43,324 --> 00:22:45,744
+And I would own 10 percent
+of your new company.
+
+560
+00:22:45,784 --> 00:22:46,439
+Wait. What? Why?
+
+561
+00:22:46,441 --> 00:22:48,405
+The algorithm was developed
+here in the Incubator.
+
+562
+00:22:48,454 --> 00:22:49,954
+Richard, shame on you.
+
+563
+00:22:49,997 --> 00:22:53,377
+Well, dealbreaker. Let's...
+Should we get some food?
+
+564
+00:22:53,417 --> 00:22:55,337
+No, no. That's okay. It's fine.
+
+565
+00:22:55,377 --> 00:22:57,547
+And I'm here for advice,
+
+566
+00:22:57,588 --> 00:23:00,178
+or advice for the new
+CEO, whoever that may be.
+
+567
+00:23:00,215 --> 00:23:02,175
+To wit, uh...
+
+568
+00:23:02,217 --> 00:23:04,137
+I know it's probably not my
+place to give this suggestion,
+
+569
+00:23:04,178 --> 00:23:06,098
+but I think it should be Dinesh.
+
+570
+00:23:06,138 --> 00:23:07,428
+- What?
+- What?
+
+571
+00:23:07,473 --> 00:23:08,933
+- What?
+- What?
+
+572
+00:23:08,974 --> 00:23:11,054
+- Yeah. Sorry, Big Head.
+- What?
+
+573
+00:23:11,101 --> 00:23:12,851
+Yeah. Dinesh, you were the
+one that hacked together
+
+574
+00:23:12,895 --> 00:23:14,065
+the video chat in the first place.
+
+575
+00:23:14,104 --> 00:23:15,684
+You know the product inside and out.
+
+576
+00:23:15,731 --> 00:23:17,931
+You are the horse that I would bet on.
+
+577
+00:23:17,983 --> 00:23:19,313
+You really think so?
+
+578
+00:23:19,360 --> 00:23:20,610
+I do.
+
+579
+00:23:20,653 --> 00:23:22,983
+I'm down. Gilfoyle?
+
+580
+00:23:24,490 --> 00:23:28,330
+Gilfoyle, can I please
+be CEO of Pied Piper?
+
+581
+00:23:28,369 --> 00:23:30,119
+Spoken like a true leader.
+
+582
+00:23:30,162 --> 00:23:35,282
+But since your failure as a
+leader is a virtual certainty,
+
+583
+00:23:35,334 --> 00:23:37,794
+tolerating your short reign as CEO
+
+584
+00:23:37,836 --> 00:23:41,836
+in exchange for a front-row seat
+to the disaster seems fair.
+
+585
+00:23:41,882 --> 00:23:44,712
+Plus, if I'm wrong, which I'm not...
+
+586
+00:23:44,760 --> 00:23:47,350
+I get rich. So I'm down with it, Dinesh.
+
+587
+00:23:47,388 --> 00:23:48,888
+Jared, what do you think about this?
+
+588
+00:23:48,931 --> 00:23:51,551
+I think this is crazy.
+
+589
+00:23:51,600 --> 00:23:54,310
+I left my job at Hooli to... to
+come work with you, Richard.
+
+590
+00:23:54,353 --> 00:23:55,853
+And... and now you're leaving?
+
+591
+00:23:55,896 --> 00:23:57,726
+Look, these guys,
+they're gonna need you,
+
+592
+00:23:57,773 --> 00:24:00,733
+so if you want to support
+me, you support them.
+
+593
+00:24:00,776 --> 00:24:02,606
+Think you can do that?
+
+594
+00:24:02,653 --> 00:24:04,273
+JARED: I've always been very adept
+
+595
+00:24:04,321 --> 00:24:07,191
+at taking the shape of whatever
+shoe was pressed down upon me,
+
+596
+00:24:07,241 --> 00:24:09,401
+so I can try to make it work.
+
+597
+00:24:09,451 --> 00:24:10,571
+ERLICH: Then it's settled.
+
+598
+00:24:10,619 --> 00:24:12,999
+Dinesh is the new CEO of Pied Piper.
+
+599
+00:24:13,038 --> 00:24:16,168
+Oh. Actually, just one last thing.
+
+600
+00:24:16,208 --> 00:24:19,128
+I think you guys should
+call yourselves PiperChat.
+
+601
+00:24:19,169 --> 00:24:22,759
+I'm gonna have to insist that I keep the
+name Pied Piper, and I won't budge on that.
+
+602
+00:24:22,798 --> 00:24:24,758
+- Yeah, it's totally fine.
+- Okay, yeah. Who gives a shit?
+
+603
+00:24:24,800 --> 00:24:26,350
+- That's fine.
+- Terrible fucking name.
+
+604
+00:24:26,385 --> 00:24:28,175
+Let's get to work.
+
+605
+00:24:29,388 --> 00:24:30,978
+Congratulations.
+
+606
+00:24:31,015 --> 00:24:33,725
+So, wait. I don't have to be CEO, right?
+
+607
+00:24:33,767 --> 00:24:35,307
+Dinesh is going to do that?
+
+608
+00:24:37,229 --> 00:24:39,649
+ERLICH: All right. Let's figure
+out how this gets split up.
+
+609
+00:24:39,690 --> 00:24:41,530
+(GUYS CHATTERING)
+
+610
+00:24:41,567 --> 00:24:42,697
+DINESH: Let's see.
+
+611
+00:24:42,735 --> 00:24:45,525
+And, um... yeah.
+
+612
+00:24:45,571 --> 00:24:47,311
+- RICHARD: Jared...
+- (DINESH SPEAKS INDISCERNIBLY)
+
+613
+00:24:47,364 --> 00:24:48,364
+go.
+
+614
+00:24:49,366 --> 00:24:50,406
+Go on, man.
+
+615
+00:24:51,410 --> 00:24:52,580
+Get out of here.
+
+616
+00:24:54,872 --> 00:24:56,912
+ERLICH: Dinesh, you'll get five percent.
+
+617
+00:24:56,957 --> 00:24:58,997
+Gilfoyle, five percent.
+
+618
+00:24:59,043 --> 00:25:00,623
+- Jared, five percent.
+- DINESH: Yeah. Okay,
+
+619
+00:25:00,669 --> 00:25:02,509
+so we all get five, not four.
+
+620
+00:25:02,546 --> 00:25:04,426
+ERLICH: Now you said... you said four?
+
+621
+00:25:04,465 --> 00:25:06,005
+DINESH: No, five. I said five.
+
+622
+00:25:07,134 --> 00:25:09,134
+Jared, can we get five more engineers?
+
+623
+00:25:09,178 --> 00:25:11,808
+ERLICH: That's... That would
+come out of Jared's percentage.
+
+624
+00:25:11,847 --> 00:25:13,677
+- DINESH: No.
+- (GUYS CHATTERING)
+
+625
+00:25:13,724 --> 00:25:17,894
+♪ ♪
+
+626
+00:25:26,862 --> 00:25:28,192
+(SIGHS)
+
+627
+00:25:35,370 --> 00:25:36,920
+You wanted to see me, Skipper?
+
+628
+00:25:36,955 --> 00:25:38,495
+I did indeed.
+
+629
+00:25:38,540 --> 00:25:41,090
+Jack, I appreciate
+everything you've done
+
+630
+00:25:41,126 --> 00:25:43,256
+in your position as head
+of the Hooli/Endframe box,
+
+631
+00:25:43,295 --> 00:25:46,585
+but I think the company's
+needs are better suited
+
+632
+00:25:46,632 --> 00:25:48,752
+if I move you elsewhere.
+
+633
+00:25:48,801 --> 00:25:51,421
+Really?
+
+634
+00:25:51,470 --> 00:25:53,770
+Well, I appreciate the
+vote of confidence, GB.
+
+635
+00:25:53,806 --> 00:25:55,976
+(STAMMERS) I'm flattered.
+
+636
+00:25:56,016 --> 00:25:58,726
+Frankly, little bit surprised.
+
+637
+00:25:58,769 --> 00:26:00,689
+Why would you be surprised?
+Can you think of any reason
+
+638
+00:26:00,729 --> 00:26:02,319
+why you don't deserve a promotion?
+
+639
+00:26:02,356 --> 00:26:04,066
+I mean, anything at all? Well...
+
+640
+00:26:04,108 --> 00:26:07,198
+I don't want to hurt my arm
+patting myself on the back,
+
+641
+00:26:07,236 --> 00:26:09,616
+but... right off the top of my head...
+
+642
+00:26:12,324 --> 00:26:13,864
+No, I guess not.
+
+643
+00:26:13,909 --> 00:26:16,409
+I mean, you've always been
+straight with me, right?
+
+644
+00:26:16,453 --> 00:26:18,363
+Straight to the point.
+
+645
+00:26:18,413 --> 00:26:19,743
+I sure have.
+
+646
+00:26:19,790 --> 00:26:23,840
+And you've always gone out
+of your way for me, yes?
+
+647
+00:26:23,877 --> 00:26:27,007
+Always put me first?
+Gone the extra mile?
+
+648
+00:26:27,047 --> 00:26:30,467
+Gosh... I sure tried.
+
+649
+00:26:30,509 --> 00:26:31,759
+Did you?
+
+650
+00:26:35,722 --> 00:26:37,052
+(LAUGHS) All right, Jack.
+
+651
+00:26:37,099 --> 00:26:39,099
+Professor. Gary in HR will set you up.
+
+652
+00:26:39,143 --> 00:26:41,263
+Enjoy your new offices.
+
+653
+00:26:41,311 --> 00:26:42,811
+Thank you, sir.
+
+654
+00:26:43,981 --> 00:26:47,311
+♪ ♪
+
+655
+00:27:26,064 --> 00:27:29,144
+Oh, hey. Would you
+like to see your desk?
+
+656
+00:27:29,193 --> 00:27:30,643
+Okay.
+
+657
+00:27:44,750 --> 00:27:46,090
+Here it is.
+
+658
+00:27:47,377 --> 00:27:48,757
+This is your desk.
+
+659
+00:27:57,262 --> 00:28:00,052
+(TOILET FLUSHES)
+
+660
+00:28:08,398 --> 00:28:12,738
+- sync and corrections by Mr. C -
+- www.addic7ed.com -
+
+661
+00:28:17,574 --> 00:28:19,534
+<i>♪ The-the-the system
+will defeat itself ♪</i>
+
+662
+00:28:19,576 --> 00:28:20,906
+<i>♪ Nothin' stays in a steady state ♪</i>
+
+663
+00:28:20,953 --> 00:28:22,153
+<i>♪ It overheats and melts ♪</i>
+
+664
+00:28:22,204 --> 00:28:23,414
+<i>♪ It only feeds itself ♪</i>
+
+665
+00:28:23,455 --> 00:28:25,415
+<i>♪ The system, yo, I think it exists ♪</i>
+
+666
+00:28:25,457 --> 00:28:27,417
+<i>♪ Just because like a
+pit eats its pups ♪</i>
+
+667
+00:28:27,459 --> 00:28:30,299
+<i>♪ Eats its own litter up, the
+system's fucked, it's corrupt ♪</i>
+
+668
+00:28:30,337 --> 00:28:32,257
+<i>♪ It's for its own
+survival, it's genocidal ♪</i>
+
+669
+00:28:32,297 --> 00:28:34,507
+<i>♪ No place of origin,
+no beginning cycle ♪</i>
+
+670
+00:28:34,549 --> 00:28:36,219
+<i>♪ Let's occupy all streets ♪</i>
+
+671
+00:28:36,260 --> 00:28:38,060
+<i>♪ It's crazy to think in
+the '80s I wanted minks ♪</i>
+
+672
+00:28:38,095 --> 00:28:39,765
+<i>♪ And a Benz to listen to Michael ♪</i>
+
+673
+00:28:39,805 --> 00:28:41,225
+<i>♪ And Grand Poobah, Maxwell ♪</i>
+
+674
+00:28:41,265 --> 00:28:42,975
+<i>♪ To get cash while I'm
+sipping on drinks ♪</i>
+
+675
+00:28:43,016 --> 00:28:45,016
+<i>♪ In Nike sweatsuits and Gucci links ♪</i>
+
+676
+00:28:45,060 --> 00:28:47,560
+<i>♪ I'm like a Russian mob
+figure, I'm mad low ♪</i>
+
+677
+00:28:47,604 --> 00:28:49,854
+<i>♪ In the shadows, big up to Shadow ♪</i>
+
+678
+00:28:49,898 --> 00:28:52,568
+<i>♪ D-D-DJ Shadow, we
+rose to throw blows ♪</i>
+
+679
+00:28:52,609 --> 00:28:55,199
+<i>♪ Can't see me, but Nas
+moving the fastest ♪</i>
+
+680
+00:28:55,237 --> 00:28:57,867
+<i>♪ I'm a 3D movie, no needed glasses ♪</i>
+
+681
+00:28:57,906 --> 00:29:00,366
+<i>♪ I'm a 3D movie, no needed glasses ♪</i>
+
+682
+00:29:00,409 --> 00:29:02,789
+<i>♪ Hold your breath for 15 seconds ♪</i>
+
+683
+00:29:02,828 --> 00:29:05,918
+<i>♪ Close your eyes, cover
+your ears, do not listen ♪</i>
+
+684
+00:29:05,956 --> 00:29:07,996
+<i>♪ Try to feel what I'm sayin' ♪</i>
+
+685
+00:29:08,041 --> 00:29:09,541
+<i>♪ To make you feel is ♪</i>
+
+686
+00:29:09,584 --> 00:29:11,124
+<i>♪ My new expression, new expression ♪</i>
+
