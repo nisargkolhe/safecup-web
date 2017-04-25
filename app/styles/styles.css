@@ -106,6 +106,7 @@ section a:hover{
 	text-align: center;
 	margin: 5em;
 	text-shadow: 0 1px 0 black;
+	
 }
 
 .hero h1{
@@ -217,18 +218,18 @@ section .in p{
   -webkit-transform: scale(.9);
   -moz-transform: scale(.9);
   transform: scale(.9);
-  -webkit-animation: love 0.7s infinite linear alternate-reverse;
-  -moz-animation: love 0.7s infinite linear alternate-reverse;
-  animation: love 0.7s infinite linear alternate-reverse;
+  -webkit-animation: love 0.6s infinite linear alternate-reverse;
+  -moz-animation: love 0.6s infinite linear alternate-reverse;
+  animation: love 0.6s infinite linear alternate-reverse;
 }
 @-webkit-keyframes love {
-  to {-webkit-transform: scale(1.0);}
+  to {-webkit-transform: scale(1.1);}
 }
 @-moz-keyframes love {
-  to {-moz-transform: scale(1.0);}
+  to {-moz-transform: scale(1.1);}
 }
 @keyframes love {
-  to {transform: scale(1.0);}
+  to {transform: scale(1.1);}
 }
 
 .clearboth{
